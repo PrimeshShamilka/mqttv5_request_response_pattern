@@ -22,6 +22,6 @@ https://github.com/eclipse/paho.mqtt.python
 
 `` python3 server.py ``
 
--- Run the client
+- Run the client
 
 `` python3 server.py ``
