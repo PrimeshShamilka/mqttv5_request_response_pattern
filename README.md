@@ -24,4 +24,4 @@ https://github.com/eclipse/paho.mqtt.python
 
 - Run the client
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    `` python3 server.py ``
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    `` python3 client.py ``
