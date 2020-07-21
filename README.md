@@ -16,12 +16,12 @@ https://github.com/eclipse/paho.mqtt.python
 
 - Start mosquitto broker
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `` python3 startbroker.py ``
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `` python3 startbroker.py ``
 
 - Run the server
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    `` python3 server.py ``
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    `` python3 server.py ``
 
 - Run the client
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    `` python3 server.py ``
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    `` python3 server.py ``
